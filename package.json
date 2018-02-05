@@ -4,5 +4,10 @@
   "main": "lib/index.js",
   "repository": "git@github.com:naked-mole-rat/gopher-protocol.git",
   "author": "Michael <Michael@MichaelHumiston.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
 }
